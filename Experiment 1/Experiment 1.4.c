@@ -1,7 +1,7 @@
  /* Experiment 1: Installation, Environment Setup and starting with C language
 4. Write a C program to perform four arithmetic operations on two variables*/
 
-include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	printf("Name - Avantika\nSap ID - 590028347\nCourse - Bsc CS\nBatch - 1st");
